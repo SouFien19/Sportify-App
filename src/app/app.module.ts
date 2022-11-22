@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
@@ -17,6 +16,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { InputTextModule } from 'primeng/inputtext';
 import { PasswordModule } from 'primeng/password';
 import {DividerModule} from 'primeng/divider';
+import { CommonModule } from '@angular/common';
 
 
 
@@ -40,7 +40,8 @@ import {DividerModule} from 'primeng/divider';
     ButtonModule,
     InputTextModule,
     PasswordModule,
-    DividerModule
+    DividerModule,
+    CommonModule
 
 
   ],

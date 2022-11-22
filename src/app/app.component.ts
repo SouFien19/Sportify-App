@@ -12,7 +12,6 @@ export class AppComponent implements OnInit {
   showAdminBoard = false;
   showModeratorBoard = false;
   username?: string;
-  title = 'Sportify-app';
 
   constructor(private tokenStorageService: TokenStorageService) { }
 

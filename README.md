@@ -32,7 +32,7 @@ git init
 
 git clone https://github.com/SouFien19/Sportify-app
 
-git add. 
+git add . 
 
 git commit -m "message"
 

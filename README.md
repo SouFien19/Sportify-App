@@ -29,7 +29,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Git clone 
 git init
+
 git clone https://github.com/SouFien19/Sportify-app
+
 git add. 
+
 git commit -m "message"
+
 git push -u origin spotify-app-v2

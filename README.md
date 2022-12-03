@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Git clone 
+git init
+git clone https://github.com/SouFien19/Sportify-app
+git add. 
+git commit -m "message"
+git push -u origin spotify-app-v2
